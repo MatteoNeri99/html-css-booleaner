@@ -30,3 +30,29 @@
     font-size: 2rem;
 }
 
+.descrizione-foto2{
+    margin-bottom: 0px;
+}
+
+.descrizione-foto{
+    font-style: italic;
+    margin-top: 3px;
+}
+
+.articolo{
+    font-size: 2rem;
+}
+
+.evidenziare{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+    font-size: 2rem;
+}
+.prima-cella{
+    width: 33,3333%;
+    height: 50px;
+    background-color: rgb(82, 126, 245) ;
+}
